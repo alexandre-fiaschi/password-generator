@@ -17,6 +17,8 @@
 .env.development.local
 .env.test.local
 .env.production.local
+/src/templateJS.js
+/src/htmlTemp.html
 
 npm-debug.log*
 yarn-debug.log*
