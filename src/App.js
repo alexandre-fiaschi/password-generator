@@ -87,7 +87,6 @@ export default function App() {
     ].filter((item) => Object.values(item)[0]);
 
     for (let i = 0; i < length; i += typesCount) {
-      // for (let i = 0; i < length; i++) {
       typesArr.forEach((type) => {
         const funcType = Object.keys(type)[0];
         generatedPassword += randomFunc[funcType]();
