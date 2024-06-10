@@ -1,6 +1,6 @@
 Simple Passowrd Generator Form built in React and styled with Sass
 
-- Form inspired by JS course, re-written converted in React
+- Form inspired by JS practice exercises, re-written in React
 
 ---
 
